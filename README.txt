@@ -1,9 +1,8 @@
 Hi, thanks for testing/using my app!
 
-1. Create "Pictures" folder and add 3 photos.
-2. Open Config.app and enter your league/riotclient path with name of app without " symbol
-3. Open DataCollector and enter your login and password
-4. Open AutoLeagueLogger and try to use it!
+1. Open Config.app and enter your league/riotclient path with name of app without " symbol
+2. Open DataCollector and enter your login and password
+3. Open AutoLeagueLogger and try to use it!
 
 
 
